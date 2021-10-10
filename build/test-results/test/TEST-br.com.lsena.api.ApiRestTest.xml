@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.lsena.api.ApiRestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-10T15:40:06" hostname="LSENA-PC" time="2.341">
-  <properties/>
-  <testcase name="shouldReturnStatusCode200AndNuPagamentosIP()" classname="br.com.lsena.api.ApiRestTest" time="2.223"/>
-  <testcase name="shouldReturnStatusCode404()" classname="br.com.lsena.api.ApiRestTest" time="0.117"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
