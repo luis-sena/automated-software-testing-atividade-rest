@@ -4,10 +4,16 @@ Aula 1 "ESD21 - Automated Software Testing" - Atividade Rest
 
 ## Desafio
 
-> O componente deve receber os exemplos acima e retornar verdadeiro ou falso, conforme a
-> regra. Fazer o componente usando a metodologia TDD.
-> Enviar a URL do Github com todo o código fonte.
-> Fonte: https://en.wikipedia.org/wiki/Palindrome
+>Acesse o seguinte endereço:
+>https://github.com/public-apis/public-apis
+
+>- Escolha uma API para consumir, caso queira usar outra que não está na lista, pode mudar,
+>desde que seja uma API pública
+>- Crie um projeto com RestAssured e JUnit
+>- Crie um teste de sucesso validando o http status code e o conteúdo retornado pela API com
+>Assert
+>- Crie um teste de falha validando o http status code com Assert
+>- Subir o código no Github e enviar no classroom (atividade individual ou em grupo)
 
 ## Como rodar os testes
 
@@ -16,5 +22,5 @@ git clone https://github.com/luis-sena/automated-software-testing-atividade-rest
 
 gradle clean test
 ```
-![](tests.png)
+![](teste.png)
 
